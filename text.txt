@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is content from the text documentdsadsadsa
 fdjsklfjdsklfjsdf
 fdjsklfjdsklfjsdklaf
 skdlsakdsalkdsl
+=======
+this is content from the text document
+>>>>>>> parent of 14c5414... first
